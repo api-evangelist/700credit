@@ -66,7 +66,7 @@
 
 700Credit provides credit reporting, compliance, and identity verification solutions for automotive dealers. Their platform offers soft‑pull pre‑qualification, credit insight scores, compliance training, and fraud detection tools, helping dealerships streamline financing and reduce risk. The company’s services integrate with dealer management systems and support both consumer and dealer experiences through a suite of web‑based applications.
 
-**Areas:** Credit · Compliance · IdentityVerification · Automotive · Dealer
+**Areas:** Credit · Compliance · Identity Verification · Automotive · Dealers
 
 ## 700 Credit on APIs.io
 
@@ -92,7 +92,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 8.6** — minimal · rubric 0.27.0 · scored 2026-11-16
+**Kin Score 6.8** — minimal · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
@@ -101,16 +101,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 0.0 |
-| Access clarity | 23.7 |
+| Access clarity | 19.1 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 0.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -129,8 +129,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 3.9** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/700credit/](https://apis.io/providers/700credit/).
 
